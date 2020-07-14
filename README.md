@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m currently working on Python 3.8, AWS SQS, Selenium.
+
 <!--
 **rahul-bhave/rahul-bhave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
