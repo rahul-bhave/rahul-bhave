@@ -1,6 +1,3 @@
-# Saving the README content as a markdown file
-
-readme_content = """
 # 👋 Hi, I'm Rahul Bhave
 
 I'm a seasoned software professional with over 18 years of experience in designing and implementing Test Automation Frameworks. My expertise lies in Python, AWS services, Selenium, and DevOps practices. I am passionate about building scalable test frameworks, automating cloud workflows, and contributing to open-source projects.
